@@ -1,0 +1,16 @@
+Flask-RESTful
+flask
+Flask-SocketIO
+eventlet==0.30.2
+simple-websocket
+gevent-websocket
+python-socketio
+python-socketio[client]
+Flask-Session
+mysql-connector-python
+flask_cors
+python-dotenv
+PyJWT
+gunicorn==20.1.0
+python-engineio
+
